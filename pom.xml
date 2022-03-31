@@ -7,7 +7,7 @@
   <properties>
   	<servlet-vision>4.0.1</servlet-vision>
   	<jsp-version>2.2</jsp-version>
-  	<spring-mvc-version>5.2.2.RELEASE</spring-mvc-version>
+  	<spring-mvc-version>5.3.18</spring-mvc-version>
   	<spring-jdbc-version>5.2.2.RELEASE</spring-jdbc-version>
   	<aspectjweaver-version>1.9.2</aspectjweaver-version>
   	<mybatis-version>3.4.6</mybatis-version>
